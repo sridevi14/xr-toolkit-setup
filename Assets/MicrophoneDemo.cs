@@ -10,7 +10,7 @@ namespace Whisper.Samples
     /// <summary>
     /// Record audio clip from microphone and make a transcription.
     /// </summary>
-    public class MicrophoneDemo : MonoBehaviour
+    public class VoiceDemo : MonoBehaviour
     {
         public WhisperManager whisper;
         public MicrophoneRecord microphoneRecord;
